@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/git-reset-deck',
   siteMetadata: {
     name: `Zied Haj Salah`,
     title: `Git reset Deck`,
