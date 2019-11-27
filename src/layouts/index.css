@@ -50,7 +50,7 @@ html {
   -webkit-overflow-scrolling: touch;
 }
 
-#slide ul {
+#slide ul, #slide p {
     text-align: left;
     margin-left: 32px;
 }
@@ -112,8 +112,10 @@ pre {
 }
 
 code {
-  font-family: menlo, monospace;
-  font-size: 90%;
+  font-family: lucida console, monospace;
+  font-size: 80%;
+  background-color: pink;
+  border-radius: 5px;
 }
 
 a:hover {

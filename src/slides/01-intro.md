@@ -4,11 +4,11 @@
 
 ## The working directory
 
-The working directory is in sync with the local file system
+- The working directory is in sync with the local file system
 and it is representative of the immediate changes made to
 content in files and directories.
 
-When we make changes to a file those changes are now part
+- When we make changes to a file those changes are now part
 of the working directory. If we run `git status` the modified
 file will be displayed in red.
 
